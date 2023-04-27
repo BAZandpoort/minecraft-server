@@ -7,7 +7,7 @@ How to install on Windows:
 4.  When you have installed Git and opened Git Bash, clone this repository with the following command: 
 ```git clone https://github.com/BAZandpoort/minecraft-server```
 5. Open a terminal of choice and run the run.bat file by typing `./run.bat` in the cloned folder.
-6. Once you are in Minecraft, when you add the server, enter the PUBLIC ip.
+6. Once you are in Minecraft, when you add the server, enter the PUBLIC ip (or enter 'localhost if you run the server on the same device as you play).
 7. Enjoy playing minecraft on your self hosted server :)  
 
 
