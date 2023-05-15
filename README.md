@@ -30,4 +30,4 @@ This repo provides a pre-configured (optimized) template for setting up and mana
 - [Jasper](https://github.com/J4spr) - for making it work on Linux
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
